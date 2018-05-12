@@ -1,0 +1,45 @@
+_repo: Confessions-of-a-Thug_44881
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taylor, Meadows
+    aliases:
+    - Taylor, Philip Meadows
+    - Meadows Taylor, Philip
+    birthdate: 1808
+    deathdate: 1876
+    gutenberg_agent_id: '42684'
+    url: http://www.gutenberg.org/2009/agents/42684
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Meadows_Taylor
+description: "Confessions of a Thug is an English novel written by Philip Meadows\
+  \ Taylor in 1839 based on the Thuggee cult in British India. It was a best-seller\
+  \ in 19th-century Britain, becoming the British Empire's most sensational ethnographic\
+  \ fiction in the first half of the 19th century; its avid readers included Queen\
+  \ Victoria. It was one of the best-selling crime novels of the 19th century, and\
+  \ was the most influential novel about India prior to Rudyard Kipling's Kim (1901).\
+  \ The novel's popularity established the word \"thug\" in the English language.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2014-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44881'
+  wikidata: Q5160036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Thugs (Indic criminal group) -- Fiction'
+- !lcsh 'Historical fiction'
+title: Confessions of a Thug
+url: http://www.gutenberg.org/ebooks/44881
+wikipedia:
+- https://en.wikisource.org/wiki/Confessions_of_a_Thug
+- https://en.wikipedia.org/wiki/Confessions_of_a_Thug_(novel)
+- https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%A7%D9%85%DB%8C%D8%B1_%D8%B9%D9%84%DB%8C_(%D9%B9%DA%BE%DA%AF)
+- https://pnb.wikipedia.org/wiki/%D8%A7%DA%A9_%D9%B9%DA%BE%DA%AF_%D8%AF%DB%92_%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81%D8%A7%D8%AA_(%D9%86%D8%A7%D9%88%D9%84)
