@@ -22,6 +22,8 @@ description: "Confessions of a Thug is an English novel written by Philip Meadow
   \ was the most influential novel about India prior to Rudyard Kipling's Kim (1901).\
   \ The novel's popularity established the word \"thug\" in the English language.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44881#Confessions-of-a-Thug
 gutenberg_issued: '2014-02-12'
 gutenberg_type: Text
 identifiers:
